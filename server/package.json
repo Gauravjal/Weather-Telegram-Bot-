@@ -27,6 +27,7 @@
     "cors": "^2.8.5",
     "google-auth-library": "^9.1.0",
     "mongoose": "^7.6.0",
+    "node": "^20.7.0",
     "node-telegram-bot-api": "^0.63.0",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
