@@ -41,7 +41,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README according to your project's specific features and requirements. Include any additional sections or information that you think would be valuable for users and contributors visiting your GitHub repository. Good luck with your Weather Telegram Bot project!
